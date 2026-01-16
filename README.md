@@ -46,14 +46,13 @@ Each query is designed to answer a real-world business question.
 ## 📂 Project Structure
 
 sales-analysis-sql/
-├── dataset/
-│   ├── SampleSuperstore.csv
-│   └── sales_cleaned.csv
-│
-├── sql/
-│   └── Sales analysis.sql
-│
-└── README.md
+- dataset/
+  - SampleSuperstore.csv
+  - sales_cleaned.csv
+- sql/
+  - Sales_analysis.sql
+- README.md
+
 
 
 ---
